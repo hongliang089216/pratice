@@ -1,0 +1,8 @@
+print('身高：')
+height=float(input())
+print('米')
+print('体重：')
+weight=int(input())
+print('千克')
+BMI=weight/(height*height)
+print(BMI)

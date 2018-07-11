@@ -1,0 +1,9 @@
+print('水杯：4.5元')
+cup=4.5
+print('薯愿：8元')
+shuyuan=8
+print('脉动饮料：4.3')
+maidong=4.3
+sum=cup+shuyuan+maidong
+print('总和'+str(sum))
+print('抹零后：'+str(int(sum)))

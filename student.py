@@ -1,0 +1,9 @@
+print('python课程:95')
+print('English课程:92')
+print('C语言课程：89')
+python=95
+English=92
+C=89
+arrage=(python+English+C)/3
+print('平均分：')
+print(int(arrage))

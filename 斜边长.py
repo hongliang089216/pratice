@@ -1,0 +1,7 @@
+print('输入边长a:')
+a = input()
+print('输入边长b：')
+b = input()
+print('输出斜边c:')
+c=(int(a)**2+int(b)**2)**(1/2)
+print(int(c))
